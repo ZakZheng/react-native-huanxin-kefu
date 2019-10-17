@@ -1,6 +1,6 @@
-# react-native-huanxin-kefu
+# ~~react-native-huanxin-kefu(弃用)~~
 
-将环信客服集成到 React Native 项目中。目前只实现了 Android 端
+~~~将环信客服集成到 React Native 项目中。目前只实现了 Android 端
 
 ## Getting started
 
@@ -90,3 +90,4 @@ HuanxinKefu.register(username, password).then(() => {
 // 退出登录
 HuanxinKefu.loginout();
 ```
+~~~
